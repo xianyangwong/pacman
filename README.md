@@ -20,8 +20,6 @@ $ node ./index.js ./input.json
 
 ### JSON input example
 
-Pacman Simulator requires [Node.js](https://nodejs.org/) v6+ to run.
-
 ```json
 [
     "PLACE 0,0,NORTH",
